@@ -75,9 +75,9 @@ Extended Syntax
 Subscript and Superscript
 ---
 
-H~2~0
+H<sub>2</sub>O
 
-X^2^
+X<sup>2
 
 Table
 ---

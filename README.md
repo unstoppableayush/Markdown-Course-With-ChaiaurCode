@@ -91,7 +91,7 @@ Table
 
 Highlight
 ---
-I need to highlight these ==very important words==.
+I need to highlight these `very important words`.
 
 
 Strikethrough
